@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT01- Login e senha válido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b8bf4ba-7aeb-4c39-87e6-cea1be730236</testCaseGuid>
+</TestCaseEntity>
